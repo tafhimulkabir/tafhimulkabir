@@ -15,7 +15,7 @@ Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/tafhimulkabir/custom-widget-image">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafhimulkabir&repo=github-readme-stats" />
