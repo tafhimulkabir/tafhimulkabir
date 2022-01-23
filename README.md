@@ -7,6 +7,9 @@
 ### About Me
 Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 
+
+### Skills
+
 <!--
 **tafhimulkabir/tafhimulkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
