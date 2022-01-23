@@ -10,6 +10,7 @@ Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 
 ### Skills
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tafhimulkabir/tafhimulkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
