@@ -1,4 +1,4 @@
-[![github-banner.png](https://i.postimg.cc/Yq5kPsvJ/github-banner.png)](https://postimg.cc/w7QSyFcV)
+[![github-banner.png](https://i.postimg.cc/MKQbxnGv/github-banner.png)](https://postimg.cc/CzwfsLkg)
 
 ### Hi there 👋
 
