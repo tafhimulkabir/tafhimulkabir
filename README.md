@@ -16,12 +16,6 @@ Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/tafhimulkabir/custom-widget-image">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafhimulkabir&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/tafhimulkabir/popular-posts-for-wordpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafhimulkabir&repo=convoychat" />
-</a>
 
 <!--
 
