@@ -15,7 +15,7 @@ Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tafhimulkabir&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 
