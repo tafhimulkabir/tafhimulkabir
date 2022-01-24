@@ -6,7 +6,6 @@
 
 ### About Me
 Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
-![Visitor Count](https : //profile-counter.glitch.me/tafhimulkabir/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
