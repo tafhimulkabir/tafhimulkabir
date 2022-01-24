@@ -1,8 +1,11 @@
-[![github-banner.png](https://i.postimg.cc/MKQbxnGv/github-banner.png)](https://postimg.cc/CzwfsLkg)
+
 
 <!--
+[![github-banner.png](https://i.postimg.cc/MKQbxnGv/github-banner.png)](https://postimg.cc/CzwfsLkg)
 ### Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Tafhimul+Kabir;A+Computer+Programmer;Content+Creator;And+Math+Enthusiast)](https://git.io/typing-svg)
 
 ### About Me
 Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
