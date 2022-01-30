@@ -1,4 +1,7 @@
 <!--
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.">
+</p>
 
 ### About Me
 Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
@@ -80,3 +83,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
