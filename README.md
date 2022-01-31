@@ -102,8 +102,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 
 
@@ -112,8 +110,14 @@ Here are some ideas to get you started:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+-->
 
 
+
+
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
 
 
 
