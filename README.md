@@ -13,12 +13,12 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="380" /> 
-</p>
+</div>
 <br>
+
 <!--
 <table>
   <tr>
@@ -65,9 +65,7 @@ I'm currently working on the initial design for all the open source application 
 Contact me
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
@@ -75,7 +73,9 @@ Contact me
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
