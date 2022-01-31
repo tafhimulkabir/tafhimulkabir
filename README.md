@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23101010&size=44&height=68&lines=Hi+I'm+Tafhimul+Kabir%2C+A+Programmer)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23101010&size=44&height=68&lines=Hi+I'm+Tafhimul+Kabir%2C+A+Programmer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23101010&size=24&lines=A+Programmer.;Content+Creator.;And+Math+Enthusiast.)](https://git.io/typing-svg)
+</p>
 <!--
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.">
@@ -35,9 +38,11 @@ Contact me
 <!--
 [![github-banner.png](https://i.postimg.cc/MKQbxnGv/github-banner.png)](https://postimg.cc/CzwfsLkg)
 ### Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
--->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Tafhimul+Kabir;A+Computer+Programmer;Content+Creator;And+Math+Enthusiast)](https://git.io/typing-svg)
+
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
