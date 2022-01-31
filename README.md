@@ -1,6 +1,6 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23101010&size=44&height=68&lines=Hi+I'm+Tafhimul+Kabir%2C+A+Programmer)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23101010&size=24&lines=A+Programmer.;Content+Creator.;And+Math+Enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23101010&size=44&height=68&lines=Hi+I'm+Tafhimul+Kabir%2C+A+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23101010&size=24&lines=A+Programmer.;Content+Creator.;And+Math+Enthusiast.)](https://git.io/typing-svg)
 </p>
 <!--
 <p align="center">
