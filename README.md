@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://badges.pufler.dev/repos/tafhimulkabir">
   <img src="https://badges.pufler.dev/years/tafhimulkabir">
+  <img src="https://badges.pufler.dev/commits/monthly/tafhimulkabir">
   <!-- <img src="https://badges.pufler.dev/gists/tafhimulkabir"> -->
 </div>
 <br>
