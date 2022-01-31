@@ -144,5 +144,5 @@ Here are some ideas to get you started:
 
 -->
 
-<img alt="Twitter Feed" src="https://github-readme-twitter.gazf.vercel.app/api?id="TafhimulKabir"/>
+<img alt="Twitter Feed" src="https://github-readme-twitter.gazf.vercel.app/api?id=TafhimulKabir>
 
