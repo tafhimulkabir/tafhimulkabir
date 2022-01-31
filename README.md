@@ -137,8 +137,8 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]" align="center">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+<a href="https://www.youtube.com/channel/UChG29ul2cg52UD6gy9Tj-Sg" align="center">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UChG29ul2cg52UD6gy9Tj-Sg&key=[YOUR API KEY]"/>
 </a>
 
 
