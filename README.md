@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I%27m+Tafhimul+Kabir;A+Programmer.;Content+Creator.;And+Math+Enthusiast.">
 </div>
 
-<div float="left">
+<div width="200">
   <h3>About Me</h3>
   <p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
 </div>
 
-<div float="right">
+<div width="200">
   <img src="https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif">
 </div>
 
