@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I%27m+Tafhimul+Kabir;A+Programmer.;Content+Creator.;And+Math+Enthusiast.">
 </div>
-<br>
-<hr>
+
+<h4></h4>
+<p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
   
 <!--
 <p align="center">
