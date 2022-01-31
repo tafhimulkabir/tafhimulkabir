@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380" />
+  <img src="https://badges.pufler.dev/repos/tafhimulkabir">
   <img src="https://badges.pufler.dev/years/tafhimulkabir">
 </div>
 <br>
