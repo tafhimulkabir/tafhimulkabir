@@ -10,12 +10,6 @@
 </div>
 
 <!--
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.">
-</p>
-
-### About Me
-Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
 
 I started my journey of programming in late 21st sentry. I still remember when I got my first computer It had a huge CRT monitor. 
 
@@ -42,20 +36,11 @@ I'm currently working on the initial design for all the open source application 
 
 Contact me
 -->
-<!--
-[![github-banner.png](https://i.postimg.cc/MKQbxnGv/github-banner.png)](https://postimg.cc/CzwfsLkg)
-### Hi I'm Tafhimul Kabir, A Programmer, Content Creator and Math Enthusiast.
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Tafhimul+Kabir;A+Computer+Programmer;Content+Creator;And+Math+Enthusiast)](https://git.io/typing-svg)
-
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tafhimulkabir&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
