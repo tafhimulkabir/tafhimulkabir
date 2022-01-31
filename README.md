@@ -14,9 +14,7 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif)  |  ![](https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif)
+
 <!--
 
 I started my journey of programming in late 21st sentry. I still remember when I got my first computer It had a huge CRT monitor. 
