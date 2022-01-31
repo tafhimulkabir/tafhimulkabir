@@ -7,7 +7,7 @@
   <p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
 </div>
 
-<div align="right">
+<div width="425" align="right">
   <img src="https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif" width=460>
 </div>
 
