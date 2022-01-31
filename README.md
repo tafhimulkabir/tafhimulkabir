@@ -15,9 +15,10 @@
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="500" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="380" /> 
 </p>
+<br>
 <!--
 <table>
   <tr>
