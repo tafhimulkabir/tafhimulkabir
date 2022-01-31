@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I'm+Tafhimul+Kabir;A+Programmer.;Content+Creator.;And+Math+Enthusiast.)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I%27m+Tafhimul+Kabir;A+Programmer.;Content+Creator.;And+Math+Enthusiast.">
+</p>
   
 <!--
 <p align="center">
