@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula" width="680">
 </div>
 
 <!--
