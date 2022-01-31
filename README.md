@@ -125,6 +125,8 @@ Here are some ideas to get you started:
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
 </a>
 
-
+<p align="center">	<!-- (optional) center align -->
+    <img src="/path/to/svg" width="XXXpx">
+</p>
 
 
