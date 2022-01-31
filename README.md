@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I%27m+Tafhimul+Kabir;A+Programmer.;Content+Creator.;And+Math+Enthusiast.">
 </div>
 
+<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+
+<h3>About Me</h3>
+<p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
+
 <div align="left">
   <h3>About Me</h3>
   <p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
