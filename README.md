@@ -13,6 +13,11 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="500" /> 
+</p>
 <!--
 <table>
   <tr>
