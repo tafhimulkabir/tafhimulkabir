@@ -19,6 +19,14 @@
 </div>
 <br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat">
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula">
+</div>
+
 <!--
 <table>
   <tr>
@@ -65,6 +73,7 @@ I'm currently working on the initial design for all the open source application 
 Contact me
 -->
 
+<!--
 
 
 
@@ -72,7 +81,6 @@ Contact me
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -121,7 +129,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]" align="center">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
 </a>
 
