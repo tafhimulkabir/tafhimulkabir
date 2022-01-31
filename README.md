@@ -28,7 +28,7 @@
 </div>
 <br>
 
-
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=TafhimulKabir">
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat">
 </div>
@@ -143,6 +143,4 @@ Here are some ideas to get you started:
 
 
 -->
-
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=TafhimulKabir">
 
