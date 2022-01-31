@@ -8,7 +8,7 @@
 </div>
 
 <div align="right">
-  <img src="http://postimg.cc/2qz1wkN8">
+  <img src="https://postimg.cc/7GnzLpqz">
 </div>
 
 <div align="center">
