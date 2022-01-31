@@ -134,8 +134,6 @@ Here are some ideas to get you started:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
--->
-
 
 
 
@@ -144,5 +142,7 @@ Here are some ideas to get you started:
 </a>
 
 
+-->
 
+<img alt="Twitter Feed" src="https://github-readme-twitter.gazf.vercel.app/api?id="TafhimulKabir"/>
 
