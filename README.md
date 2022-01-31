@@ -80,7 +80,7 @@ I like to get my computer science bachelor and continue my study (But that's has
 I'm trying to make some basic tutorial in my youtube channel
 I'm currently working on the initial design for all the open source application I like to build
 
-Contact me
+Contact me : tafhimulkabir@protonmail.com
 -->
 
 <!--
