@@ -9,12 +9,12 @@
   <img src="https://badges.pufler.dev/commits/monthly/tafhimulkabir">
   <img src="https://badges.pufler.dev/gists/tafhimulkabir"> 
 </div>
--->
 <br>
-
-<!--
-<img align="right" src="https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif" width=560>
 -->
+
+
+
+<img align="right" src="https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif" width=560>
 
 <h3>About Me</h3>
 <p>I'm Tafhimul kabir from Bangladesh, and I build web and desktop application. I really enjoy learning new programming languages and frameworks.</p>
