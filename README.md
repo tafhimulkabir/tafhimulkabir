@@ -17,13 +17,14 @@
 <img align="right" src="https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif" width=560>
 
 <h3>About Me</h3>
-<p>I'm Tafhimul kabir from Bangladesh. I really enjoy learning new programming languages and frameworks. And I'm very passionate about math and physic</p>
+<p>I'm Tafhimul kabir from Bangladesh. I really enjoy learning new programming languages and frameworks. And I'm very passionate about math and physic.</p>
 
 <br>
-
+<!--
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380" />
