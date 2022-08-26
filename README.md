@@ -1,8 +1,8 @@
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=%23101010&size=34&height=68&lines=Hi+I%27m+Tafhimul+Kabir;A+Programmer.;Hobby Content+Creator.;And+Math+Enthusiast.">
 </div>
 
-<!--
 <div align="center">
   <img src="https://badges.pufler.dev/repos/tafhimulkabir">
   <img src="https://badges.pufler.dev/years/tafhimulkabir">
