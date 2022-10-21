@@ -38,11 +38,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat">
 </div>
 
+<!--
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tafhimulkabir&theme=dracula" width="680">
 </div>
 
-<!--
 <table>
   <tr>
     <td>
