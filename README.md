@@ -1,11 +1,18 @@
-![](https://i.postimg.cc/76pnKkcK/1-9m-WDd-L-ji01b-Gbj-Enut-Ew.gif)
+ ### Hi I'm Tafhimul kabir
+ 
+ ##### _Quick overview_
+ 
+- 🔭 I’m currently working on _**Some of my personal project**_
+- 🌱 I’m currently learning _**Rust programming language**_
+- 👯 I’m looking to collaborate on _**GitHub**_
+- 📫 How to reach me: _**Email and  socials linked below**_
 
-### About Me
 
-I'm Tafhimul kabir from Bangladesh. I really enjoy learning new programming languages and frameworks. And I'm very passionate about math and physic.
+### 💼 Tech Stack
 
-<div align="center">![](http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)</div>
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-PHP-grey?&style=for-the-badge&logo=php&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact)</div>
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">![](https://github-profile-trophy.vercel.app/?username=tafhimulkabir&theme=flat)</div>
+### 📫 Contact Info
+✉️ _tafhimulkabi@protonmail.com_  
