@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on _**Some of my personal project**_
 - 🌱 I’m currently learning _**Rust programming language**_
 - 👯 I’m looking to collaborate on _**GitHub**_
-- 📫 How to reach me: _**Email and  socials linked below**_
+- :left_speech_bubble: How to reach me: _**Email and  socials linked below**_
 
 
 ### 💼 Tech Stack
@@ -14,5 +14,9 @@
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 Contact Info
+### :left_speech_bubble: Contact Info
 ✉️ _tafhimulkabi@protonmail.com_  
+
+### Projects
+
+Here are some of my most popular projects:
