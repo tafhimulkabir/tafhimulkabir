@@ -14,8 +14,12 @@
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
+### 💼 Projects
+Here are some of my recent pet projects on github:
+
+- **[Elara](https://github.com/darkmatter1971/elara)**: A PHP framework pet project for my personal use. The goal is to make a simple and flaxible php framework.
+- **[SBM](https://github.com/darkmatter1971/sbm)**: Another one of my pet project. A Simple Bookmark Manager to manage bookmark on firefox and probably a desk top app. The goal is to make the bookmark little bit more useful.
+- **[app-installer-php ](https://github.com/darkmatter1971/app-installer-php)**: A PHP application installer (I know it's totally useless). I like to make as experiment. 
+
 ### :left_speech_bubble: Contact Info
 ✉️ _tafhimulkabi@protonmail.com_  
-
-### 💼 Projects
-Here are some of my recent projects on github:
