@@ -34,4 +34,22 @@ I welcome contributions to my projects! If you have an idea for a new feature or
 
 ### :left_speech_bubble: Contact Info
 
-✉️ _tafhimulkabi@protonmail.com_  
+<a href="mailto:tafhimulkabi@protonmail.com">
+ <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Mail">
+</a>
+
+<a href="https://twitter.com/TafhimulKabir">
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="https://codepen.io/tafhimulkabir">
+ <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+</a>
+
+<a href="https://stackoverflow.com/users/6769883/tafhimul-kabir">
+ <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+</a>
+
+<a href="https://www.linkedin.com/in/tafhimul-kabir-793554227/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn">
+</a>
