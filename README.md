@@ -35,7 +35,7 @@ I welcome contributions to my projects! If you have an idea for a new feature or
 ### :left_speech_bubble: Contact and Socials
 
 <a href="mailto:tafhimulkabi@protonmail.com">
- <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Mail">
+ <img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Mail">
 </a>
 
 <a href="https://twitter.com/TafhimulKabir">
