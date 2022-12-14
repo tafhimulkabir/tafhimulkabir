@@ -32,7 +32,7 @@ _**Note:**_ _I been little bit busy with my personal project so the progress of 
 
 I welcome contributions to my projects! If you have an idea for a new feature or a bug fix, simply create a new issue or pull request and I will review it as soon as possible.
 
-### :left_speech_bubble: Contact Info
+### :left_speech_bubble: Contact and Socials
 
 <a href="mailto:tafhimulkabi@protonmail.com">
  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Mail">
