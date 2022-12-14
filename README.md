@@ -48,3 +48,7 @@ I welcome contributions to my projects! If you have an idea for a new feature or
 <a href="https://www.linkedin.com/in/tafhimul-kabir-793554227/">
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn">
 </a>
+
+<!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tafhimulkabir.tafhimulkabir)
+-->
