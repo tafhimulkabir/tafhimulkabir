@@ -19,7 +19,7 @@
 </div>
 
 
-### 💼 Projects
+### 💼 Public Projects on GitHub
 
 Here are some of my recent pet projects on github:
 
