@@ -2,7 +2,7 @@
  
  #### _Quick overview_
  
-- 💼  I’m currently working on _**Some of my personal project**_
+- 💼  I’m currently working on _**Some of my personal projects**_
 - 🌱 I’m currently learning _**Rust programming language**_
 - 👯 I’m looking to collaborate on _**GitHub**_
 - :left_speech_bubble: How to reach me: _**Email and socials linked below**_
