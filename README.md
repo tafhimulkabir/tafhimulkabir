@@ -14,9 +14,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
+
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
+
 
 
 ### 💼 Public Projects on GitHub
@@ -29,10 +31,13 @@ Here are some of my recent pet projects on github:
 
 _**Note:**_ _I been little bit busy with my personal project so the progress of these projects are very slow_
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="380"> 
 </div>
+
 
 
 ### :thumbsup: Contributions
