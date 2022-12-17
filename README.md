@@ -1,6 +1,6 @@
  ### Hi there 👋, I'm Tafhimul kabir
  
- #### _Quick overview_
+ #### _Quick overview:_
  
 - 💼  I’m currently working on _**Some of my personal projects**_
 - 🌱 I’m currently learning _**Rust programming language**_
