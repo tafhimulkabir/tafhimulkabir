@@ -42,7 +42,7 @@ _**Note:**_ _I been little bit busy with my personal project so the progress of 
 
 ### :thumbsup: Contributions
 
-I welcome contributions to my projects! If you have an idea for a new feature or a bug fix, simply create a new issue or pull request and I will review it as soon as possible.
+I welcome all kind of contributions to my projects! If you have an idea for a new feature or a bug fix, simply create a new issue or pull request and I will review it as soon as possible.
 
 ### :left_speech_bubble: Contact and Socials
 
