@@ -67,6 +67,6 @@ I welcome all kind of contributions to my projects! If you have an idea for a ne
 </a>
 
 <!--
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tafhimulkabir.tafhimulkabir)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tafhimulkabir.tafhimulkabir)
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white)
 -->
