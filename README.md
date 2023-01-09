@@ -25,7 +25,7 @@
 
 Here are some of my recent pet projects on github:
 
-- **[Elara](https://github.com/darkmatter1971/elara)**: A PHP framework pet project for my personal use (Nothing really special). The goal is to make a simple and flaxible php framework.
+- **[Elara](https://github.com/darkmatter1971/elara)**: A PHP framework that I'm developing for my personal use. It's nothing particularly special, but my goal is to create a simple and flexible framework that I can use for my own projects.
 - **[SBM](https://github.com/darkmatter1971/sbm)**: Another one of my pet project. A Simple Bookmark Manager to manage bookmark on firefox and probably a desk top app. The goal is to make the bookmark little bit more useful.
 - **[App Installer in PHP ](https://github.com/darkmatter1971/app-installer-php)**: A PHP application installer (I know it's totally useless). I like to make as experiment. 
 
