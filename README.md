@@ -33,7 +33,7 @@ _**Note:**_ _I been little bit busy with my others personal project so the progr
 
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulkabir&theme=swift&show_icons=true" width="380">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="380"> 
 </div>
 
