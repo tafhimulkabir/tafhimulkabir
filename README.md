@@ -9,14 +9,6 @@ Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and 
 - **Learning Goals:** I’m delving into business management, team building, and scalable software architecture to elevate my company to new heights.  
 - **Hobbies:** Outside of coding and entrepreneurship, I enjoy reading, experimenting with new programming languages, and exploring the fascinating intersections of technology and economics.  
 
- 
- #### _Quick overview:_
- 
-- 💼  I’m currently working on _**Some of my personal projects**_
-- 🌱 I’m currently learning _**Rust programming language**_
-- 👯 I’m looking to collaborate on _**GitHub**_
-- :left_speech_bubble: How to reach me: _**Email and socials linked below**_
-
 ### :computer: Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.env&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
@@ -24,6 +16,13 @@ Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) -->
+
+### 📚 What I’m Reading
+
+- **$100M Leads** by Alex Hormozi – A fantastic guide for attracting more customers!  
+- **Traction** by Gino Wickman – An excellent resource for effective management strategies.  
+- **Buy Back Your Time** by Dan Martell – A must-read for mastering time management and scaling your business.  
+
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
