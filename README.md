@@ -1,6 +1,14 @@
  ### Hi there 👋, I'm Tafhimul kabir
 
 Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and startup founder with over 12 years of experience in the tech industry. Throughout my career, I’ve taken on a wide range of roles, from web development to mentoring. I’m now channeling my passion and expertise into building my own company, Avvito Ltd™, dedicated to helping businesses elevate their online presence and achieve sustainable growth.
+
+### 🌟 About Me
+
+- **Coding Journey:** My programming journey began in 2011 while pursuing a diploma in computer science. Since then, I’ve worked as a freelance full-stack developer, a web design instructor, and a Senior Backend Engineer. 
+- **Current Focus:** I’m building Avvito Ltd™, where we specialize in creating practical websites, managing digital marketing strategies, and helping businesses establish strong brand identities.  
+- **Learning Goals:** I’m delving into business management, team building, and scalable software architecture to elevate my company to new heights.  
+- **Hobbies:** Outside of coding and entrepreneurship, I enjoy reading, experimenting with new programming languages, and exploring the fascinating intersections of technology and economics.  
+
  
  #### _Quick overview:_
  
