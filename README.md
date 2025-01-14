@@ -1,4 +1,6 @@
  ### Hi there 👋, I'm Tafhimul kabir
+
+Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and startup founder with over 12 years of experience in the tech industry. Throughout my career, I’ve taken on a wide range of roles, from web development to mentoring. I’m now channeling my passion and expertise into building my own company, Avvito Ltd™, dedicated to helping businesses elevate their online presence and achieve sustainable growth.
  
  #### _Quick overview:_
  
