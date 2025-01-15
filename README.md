@@ -41,6 +41,12 @@ Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhimulkabir&layout=compact" width="380"> 
 </div>
 
+### 💡 Fun Facts
+
+- I started my career with small local contracts and eventually grew into freelancing on Upwork (formerly oDesk) with a perfect track record.
+- I’m passionate about helping people and businesses turn their ideas into impactful solutions.
+- I believe in lifelong learning—whether it’s new tech, better habits, or business strategies.
+
 ### :thumbsup: Contributions
 
 I welcome all kind of contributions to my projects! If you have an idea for a new feature or a bug fix, simply create a new issue or pull request and I will review it as soon as possible.
@@ -67,7 +73,6 @@ I welcome all kind of contributions to my projects! If you have an idea for a ne
  <img src="https://img.shields.io/badge/Linked In-0A66C2?style=flat-square&logo=linkedIn&logoColor=white" alt="LinkedIn">
 </a>
 
-<!--
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tafhimulkabir.tafhimulkabir)
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white)
--->
