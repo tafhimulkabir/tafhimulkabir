@@ -1,13 +1,13 @@
  ### Hi there 👋, I'm Tafhimul kabir
 
-Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and startup founder with over 12 years of experience in the tech industry. Throughout my career, I’ve taken on a wide range of roles, from web development to mentoring. I’m now channeling my passion and expertise into building my own company, Avvito Ltd™, dedicated to helping businesses elevate their online presence and achieve sustainable growth.
+I’m a computer programmer and tech enthusiast with over 12 years of experience in the tech industry. My journey began as a self-taught programmer while pursuing a diploma in Computer Science, leading to roles as a freelancer, educator, and Senior Backend Engineer.
 
-### 🌟 About Me
+### 🌟 What I Do
 
-- **Coding Journey:** My programming journey began in 2011 while pursuing a diploma in computer science. Since then, I’ve worked as a freelance full-stack developer, a web design instructor, and a Senior Backend Engineer. 
-- **Current Focus:** I’m building Avvito Ltd™, where we specialize in creating practical websites, managing digital marketing strategies, and helping businesses establish strong brand identities.  
-- **Learning Goals:** I’m delving into business management, team building, and scalable software architecture to elevate my company to new heights.  
-- **Hobbies:** Outside of coding and entrepreneurship, I enjoy reading, experimenting with new programming languages, and exploring the fascinating intersections of technology and economics.  
+As the founder and CEO of Avvito Ltd™, I focus on:
+- Building user-friendly, scalable practical websites.
+- Designing tools to simplify web development.
+- Driving business growth through practical digital solutions.
 
 ### :computer: Tech Stack
 
@@ -28,12 +28,11 @@ Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tafhimulkabir&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-### 🔨 Current Projects  
+### 🔨 Current Projects
 
-- Designing and developing the official website for Avvito Ltd™.  
-- Building a talented team and establishing efficient processes for Avvito Ltd™.  
-- Creating tools and workflows to simplify web development and design for small businesses.  
-- Developing internal tools to enhance operations at Avvito Ltd™.  
+- Developing the official website for Avvito Ltd™.
+- Creating workflows and tools tailored for small businesses.
+- Building a team to deliver impactful digital solutions.
 
 
 <div align="center">
@@ -43,37 +42,23 @@ Welcome to my GitHub profile! I’m a computer programmer, tech enthusiast, and 
 
 ### 💡 Fun Facts
 
-- I started my career with small local contracts and eventually grew into freelancing on Upwork (formerly oDesk) with a perfect track record.
-- I’m passionate about helping people and businesses turn their ideas into impactful solutions.
-- I believe in lifelong learning—whether it’s new tech, better habits, or business strategies.
+- Started freelancing with small local projects before achieving a perfect track record on Upwork.
+- Passionate about turning complex ideas into practical, impactful solutions.
 
-### :thumbsup: Contributions
+### 🤝 Contributions
 
-I welcome all kind of contributions to my projects! If you have an idea for a new feature or a bug fix, simply create a new issue or pull request and I will review it as soon as possible.
+I’m always open to contributions! If you have ideas for new features, find bugs, or want to improve any of my projects, feel free to:
 
-### :left_speech_bubble: Contact and Socials
+- Create an Issue to discuss your ideas.
+- Submit a Pull Request with your proposed changes.
 
-<a href="mailto:tafhimulkabi@protonmail.com">
- <img src="https://img.shields.io/badge/Mail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Mail">
-</a>
+I’ll review and respond as soon as possible. Let’s collaborate and build something great together!
 
-<a href="https://twitter.com/TafhimulKabir">
- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-</a>
+### 📬 Contact and Socials
 
-<a href="https://codepen.io/tafhimulkabir">
- <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen">
-</a>
+Feel free to connect with me:
 
-<a href="https://stackoverflow.com/users/6769883/tafhimul-kabir">
- <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-</a>
-
-<a href="https://www.linkedin.com/in/tafhimul-kabir-793554227/">
- <img src="https://img.shields.io/badge/Linked In-0A66C2?style=flat-square&logo=linkedIn&logoColor=white" alt="LinkedIn">
-</a>
-
-<!--
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tafhimulkabir.tafhimulkabir)
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white)
--->
+- 🌐 Website: [Avvito Ltd™](https://avvito.net/)
+- 📧 Email: [tafhimul@avvito.net](mailto:tafhimul@avvito.net)
+- 🐦 Twitter: [@tafhimulkabir](https://x.com/tafhimulkabir)
+- 💼 LinkedIn: [linkedin.com/in/tafhimulkabir](https://www.linkedin.com/in/tafhimulkabir/)
